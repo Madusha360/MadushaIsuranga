@@ -685,7 +685,7 @@ function App() {
         <footer className="bg-white dark:bg-gray-800 py-8 px-4 sm:px-6 lg:px-8 border-t border-gray-200 dark:border-gray-700 transition-colors duration-500">
           <div className="max-w-7xl mx-auto text-center">
             <p className="text-gray-600 dark:text-gray-400">
-              © 2024 Alex Johnson. Built with React & Tailwind CSS.
+              © 2025 Madusha Isuranga. Built with ❤️ React & Tailwind CSS.
             </p>
           </div>
         </footer>
